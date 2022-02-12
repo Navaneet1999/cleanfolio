@@ -67,8 +67,6 @@ const contact = {
   phone: '9482125826',
   linkdn: 'Navaneet h c',
   github: 'Navaneet1999',
-  insta: 'Navaneet_Chitrapur',
-  facebook: 'Navneet Chitrapur',
 }
 
 export { header, about, projects, skills, contact}

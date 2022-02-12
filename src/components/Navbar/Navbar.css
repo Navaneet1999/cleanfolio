@@ -6,6 +6,11 @@
   margin-left: 1.5em;
 }
 
+/* nav{
+  position: fixed;
+  margin-left: 50em;
+} */
+
 .app .nav__hamburger {
   display: none;
 }
@@ -37,3 +42,4 @@
     margin-left: 0.8em;
   }
 }
+

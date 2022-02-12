@@ -11,6 +11,7 @@ const About = () => {
 
   return (
     <div className='about center'>
+      <h2 className='section__title'>ABOUT</h2>
       {name && (
         <h1>
           Hi, I am <span className='about__name'>{name}.</span>
@@ -18,7 +19,11 @@ const About = () => {
         
       )}
       <Photo/>
-      {role && <h2 className='about__role'> {role}.</h2>}
+      
+      {role && <h2 className='about__role'>
+      
+         {role}.</h2>}
+    
       <p className='about__desc'>{description && description}</p>
         
       <div className='about__contact center'>

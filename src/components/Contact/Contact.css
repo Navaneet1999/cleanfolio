@@ -14,3 +14,9 @@
   grid-auto-rows: auto;
   margin-top: 10px;
 }
+
+a{
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+}
