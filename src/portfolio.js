@@ -1,16 +1,16 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://Navaneet.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://Navaneet.github.io/portfolio',
+  title: 'NC.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'Navaneet Harish Chitrapur',
+  name: 'Navaneet Chitrapur',
   role: 'Aspiring Full Stack Web Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: '../public/resume/fw13_080_Navaneet_H_Chitrapur.docx (1).pdf',
+    'Observant and detail-oriented aspiring full-stack developer with a specialization in MERN stack. Self- motivated  and  curious,  with  a  keen  interest  in  building user-centric products. Looking forward to utilizing my skills in a challenging work environment..',
+  resume: 'https://drive.google.com/file/d/1brrGEh-9RbfUzTJYJv2hQdbI2PVUw4Z0/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/navaneet-h-c-6602b71b4/',
     github: 'https://github.com/Navaneet1999',
@@ -25,16 +25,16 @@ const projects = [
     description:
       'A website used for buying Cloaths and accessories',
     stack: ['HTML', 'CSS', 'JavaScript'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/Navaneet1999/Pull-Bear',
+    livePreview: 'https://github.com/Navaneet1999/Pull-Bear',
   },
   {
     name: 'PluralSight',
     description:
       'A learning website which includes major programming languages',
     stack: ['HTML', 'JavaScript', 'BootStrap', 'CSS'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/nawaz2508/Pluralsight',
+    livePreview: 'https://pluralsiteclone.netlify.app/',
   },
   // {
   //   name: 'Project 3',
@@ -54,17 +54,21 @@ const skills = [
   'JavaScript',
   'React',
   'Redux',
-  'SASS',
-  'Material UI',
+  'BootStrap',
+  'Postman',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'MongoDB',
+  'Node.js',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 'navni.hari@gmail.com',
+  phone: '9482125826',
+  linkdn: 'Navaneet h c',
+  github: 'Navaneet1999',
+  insta: 'Navaneet_Chitrapur',
+  facebook: 'Navneet Chitrapur',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, projects, skills, contact}

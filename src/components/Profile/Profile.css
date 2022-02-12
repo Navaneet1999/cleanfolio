@@ -1,0 +1,7 @@
+.about__image{
+    margin: auto;
+    width: 450px;
+    height: 350px;
+    box-shadow: 2px;
+    border-radius: 25%;
+  }

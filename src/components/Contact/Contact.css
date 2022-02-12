@@ -1,3 +1,16 @@
 .contact {
+  margin: auto;
   flex-direction: column;
+}
+/* #phone{
+  flex-direction: column;
+}
+#phone1{
+  flex-direction: column;
+} */
+
+.conact > a{
+  display: grid;
+  grid-auto-rows: auto;
+  margin-top: 10px;
 }
