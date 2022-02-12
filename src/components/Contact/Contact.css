@@ -15,8 +15,30 @@
   margin-top: 10px;
 }
 
-a{
+.ssec{
   margin: auto;
   display: flex;
-  flex-direction: row;
+  flex-flow: row;
+}
+
+.ssec1{
+  margin: auto;
+  display: flex;
+  flex-flow: row;
+}
+
+.ssec2{
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ssec3{
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#contact{
+  display: flex;
 }
