@@ -13,32 +13,26 @@
   display: grid;
   grid-auto-rows: auto;
   margin-top: 10px;
+  margin-left: 10px;
 }
 
-.ssec{
-  margin: auto;
-  display: flex;
-  flex-flow: row;
+#icon{
+  text-align: center;
 }
 
 .ssec1{
-  margin: auto;
-  display: flex;
-  flex-flow: row;
+ margin-left: 10px;
 }
 
 .ssec2{
-  margin: auto;
-  display: flex;
-  flex-wrap: wrap;
+  margin-left: 10px;
 }
 
 .ssec3{
-  margin: auto;
-  display: flex;
-  flex-wrap: wrap;
+  margin-left: 10px;
 }
 
-#contact{
+#line{
   display: flex;
+  flex-direction: row;
 }
