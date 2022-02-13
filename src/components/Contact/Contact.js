@@ -34,7 +34,7 @@ const Contact = () => {
       </a>
       <a className='ssec3' href={`Contactto:${contact.github}`}  target="_b">
       <div id='icon'><GitIcon/></div>
-        <div>Navaneet@1999</div>
+        <div>Navaneet1999</div>
       </a>
       </div>
       

@@ -27,6 +27,7 @@ const projects = [
     stack: ['HTML', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/Navaneet1999/Pull-Bear',
     livePreview: 'https://github.com/Navaneet1999/Pull-Bear',
+    imageBag: 'https://static.pullandbear.net/2/static2/itxwebstandard/images/worldwide/background.jpg?20220213023001',
   },
   {
     name: 'PluralSight',
@@ -35,6 +36,7 @@ const projects = [
     stack: ['HTML', 'JavaScript', 'BootStrap', 'CSS'],
     sourceCode: 'https://github.com/nawaz2508/Pluralsight',
     livePreview: 'https://pluralsiteclone.netlify.app/',
+    imageBag: 'https://www.pluralsight.com/content/dam/pluralsight2/homepage/Cloud-labs-image2x.png',
   },
   // {
   //   name: 'Project 3',
