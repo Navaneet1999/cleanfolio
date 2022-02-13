@@ -26,7 +26,7 @@ const projects = [
       'A website used for buying Cloaths and accessories',
     stack: ['HTML', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/Navaneet1999/Pull-Bear',
-    livePreview: 'https://github.com/Navaneet1999/Pull-Bear',
+    livePreview: 'https://drive.google.com/file/d/1xwSaPBa7UYF91NLBQ_C8dO8UuczrQQHB/view?usp=sharing',
     imageBag: 'https://static.pullandbear.net/2/static2/itxwebstandard/images/worldwide/background.jpg?20220213023001',
   },
   {
