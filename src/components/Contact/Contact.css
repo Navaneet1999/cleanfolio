@@ -36,3 +36,10 @@
   display: flex;
   flex-direction: row;
 }
+
+@media (max-width: 600px){
+  #line{
+    display: flex;
+    flex-direction: column;
+  }
+}
