@@ -2,10 +2,20 @@
   padding: 2em;
   margin: 0 auto;
   text-align: center;
+  text-shadow: black;
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
+  background: transparent;
 }
-
+.baground{
+  position: absolute;
+    z-index: -1;
+    min-width: 100%;
+    min-height: 100%;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+}
 .project:hover {
   transform: translateY(-7px);
 }

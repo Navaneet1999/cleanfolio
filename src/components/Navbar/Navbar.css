@@ -6,10 +6,13 @@
   margin-left: 1.5em;
 }
 
-/* nav{
-  position: fixed;
-  margin-left: 50em;
-} */
+@media (min-width: 600px){
+  nav{
+    position: fixed;
+    background: transparent;
+  }
+}
+
 
 .app .nav__hamburger {
   display: none;

@@ -11,9 +11,12 @@ const Projects = () => {
       <h2 className='section__title'>Projects</h2>
 
       <div className='projects__grid'>
+        
         {projects.map((project) => (
           <ProjectContainer key={uniqid()} project={project} />
         ))}
+        
+        
       </div>
     </section>
   )
