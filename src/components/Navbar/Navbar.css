@@ -18,9 +18,9 @@
   display: none;
 }
 
-.nav__theme {
+/* .nav__theme {
   margin-top: 0.4em;
-}
+} */
 
 @media (max-width: 600px) {
   .nav__list {
@@ -45,4 +45,5 @@
     margin-left: 0.8em;
   }
 }
+
 

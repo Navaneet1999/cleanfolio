@@ -14,7 +14,7 @@ const Skills = () => {
             <img src={skill} alt=''/>
             
           </li>
-        ))}
+         ))} 
       </ul>
     </section>
   )

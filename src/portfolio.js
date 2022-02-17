@@ -51,16 +51,16 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png',
-  'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png',
-  'https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640',
-  'https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png',
-  'https://img.favpng.com/6/2/11/redux-react-javascript-freecodecamp-npm-png-favpng-6F2x50visKuC0trBQ0952Cm1E_t.jpg',
-  'https://geoxis.co/wp-content/uploads/2019/09/bootstrap-logo-vector-png-bootstrap-logo-512.jpg',
+  'https://www.vnurture.in/wp-content/uploads/2019/09/html5-icon-13.png',
+  'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png',
+  'https://pbs.twimg.com/media/BwssIAuCMAEXvUi.png',
+  'https://www.rapiddg.com/sites/default/files/imce-files/react.png',
+  'https://cdn.iconscout.com/icon/free/png-256/redux-283024.png',
+  'https://raw.githubusercontent.com/themedotid/bootstrap-icon/HEAD/docs/bootstrap-icon-css.png',
   'https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8',
   'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
-  'https://www.pngitem.com/pimgs/m/385-3850320_png-transparent-mongodb-icon-mongodb-logo-png-download.png',
-  'https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png',
+  'https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png',
+  'https://cdn-icons-png.flaticon.com/512/919/919825.png',
 ]
 
 const contact = {

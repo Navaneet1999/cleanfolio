@@ -7,10 +7,11 @@ import './About.css'
 // const image = "/public/IMG_20220211_121935.jpg"
 console.log(Photo)
 const About = () => {
-  const { name, role, description, resume, social} = about
+  const { name, role, description, resume, social} = about;
+  // if(!about.length) return null;
 
   return (
-    <div className='about center'>
+    <div className='about center' id='about'>
       <h2 className='section__title'>ABOUT</h2>
       {name && (
         <h1>
