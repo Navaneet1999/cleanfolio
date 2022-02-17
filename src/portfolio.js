@@ -27,7 +27,7 @@ const projects = [
     stack: ['HTML', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/Navaneet1999/Pull-Bear',
     livePreview: 'https://drive.google.com/file/d/1xwSaPBa7UYF91NLBQ_C8dO8UuczrQQHB/view?usp=sharing',
-    imageBag: 'https://static.pullandbear.net/2/static2/itxwebstandard/images/worldwide/background.jpg?20220213023001',
+    imageBag: 'https://thepointmalta.com/wp-content/uploads/2021/11/Banner-Mobile-PullBear-1.png',
   },
   {
     name: 'PluralSight',
@@ -36,7 +36,7 @@ const projects = [
     stack: ['HTML', 'JavaScript', 'BootStrap', 'CSS'],
     sourceCode: 'https://github.com/nawaz2508/Pluralsight',
     livePreview: 'https://pluralsiteclone.netlify.app/',
-    imageBag: 'https://www.pluralsight.com/content/dam/pluralsight2/homepage/Cloud-labs-image2x.png',
+    imageBag: 'https://www.classcentral.com/report/wp-content/uploads/2021/04/pluralsight-top-courses.png',
   },
   // {
   //   name: 'Project 3',
