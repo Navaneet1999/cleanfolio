@@ -38,7 +38,6 @@ const projects = [
     livePreview: 'https://pluralsiteclone.netlify.app/',
     imageBag: 'https://www.classcentral.com/report/wp-content/uploads/2021/04/pluralsight-top-courses.png',
   },
-  // {
   //   name: 'Project 3',
   //   description:
   //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
