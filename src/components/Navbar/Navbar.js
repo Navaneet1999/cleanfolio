@@ -12,7 +12,7 @@ const Navbar = () => {
   const [showNavList, setShowNavList] = useState(false)
 
   const toggleNavList = () => setShowNavList(!showNavList)
-
+  // console.log(about.length)
   return (
     <nav className='center nav'>
       <ul

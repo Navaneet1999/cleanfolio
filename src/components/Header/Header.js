@@ -7,7 +7,8 @@ const Header = () => {
 
   return (
     <header className='header center'>
-      <h3 className='nav_left'>
+      <div className='nav_left'>
+      <h3 >
         {homepage ? (
           <a href={homepage} className='link'>
             {title}
@@ -16,6 +17,8 @@ const Header = () => {
           title
         )}
       </h3>
+      </div>
+      
       <div className='nav_right'>
       <Navbar />
       </div>

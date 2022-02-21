@@ -12,16 +12,19 @@ const About = () => {
 
   return (
     <div className='about center' id='about'>
-     
-      {name && (
+     <div className='about_me'>
+     {name && (
         <h1>
-          Hi, I am <span className='about__name'>{name}.</span>
+          Hi, I am <p className='about__name'>{name}.</p>
         </h1>
         
       )}
-      <div>
+      <div className='about_photo'>
       <Photo/>
       </div>
+     </div>
+      
+      
       
      
       {role && <h2 className='about__role'>
@@ -45,7 +48,7 @@ const About = () => {
                 href={social.github}
                 aria-label='github'
                 className='link link--icon'
-                target='_b'
+                target="_blank" rel="noreferrer"
               >
                 <GitHubIcon />
               </a>
@@ -56,7 +59,7 @@ const About = () => {
                 href={social.linkedin}
                 aria-label='linkedin'
                 className='link link--icon'
-                target='_b'
+                target="_blank" rel="noreferrer"
               >
                 <LinkedInIcon />
               </a>

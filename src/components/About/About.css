@@ -11,7 +11,13 @@
   margin-top: 1.2em;
 }
 
+.about_me{
+  display: flex;
+}
 
+/* .about_photo{
+  float: right;
+} */
 
 .about__desc {
   font-size: 1rem;
@@ -35,6 +41,10 @@
   .app .about {
     align-items: flex-start;
     margin-top: 2em;
+  }
+
+  .about_me{
+    flex-direction: column;
   }
 }
 
