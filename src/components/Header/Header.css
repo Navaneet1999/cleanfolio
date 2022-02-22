@@ -17,6 +17,7 @@
   text-align: left;
   float: left;
   padding-top: 30px;
+  position: relative;
 }
 @media (max-width: 600px) {
   .header {
