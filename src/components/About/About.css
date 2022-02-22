@@ -5,6 +5,7 @@
 
 .about__name {
   color: var(--clr-primary);
+  
 }
 
 .about__role {
@@ -13,11 +14,16 @@
 
 .about_me{
   display: flex;
+  font-size: x-large;
 }
 
-/* .about_photo{
-  float: right;
-} */
+.about_h1{
+  padding-top: 90px;
+}
+
+.about_photo{
+  padding-left: 20px;
+}
 
 .about__desc {
   font-size: 1rem;

@@ -70,4 +70,16 @@ const contact = {
   github: 'Navaneet1999',
 }
 
-export { header, about, projects, skills, contact}
+const skl = [
+  'HTML',
+  'CSS',
+  'JavaScript',
+  'React',
+  'Redux',
+  'Bootstrap',
+  'Postman',
+  'Git',
+  'MongoDB',
+  'Node.js',
+]
+export { header, about, projects, skills, contact, skl}

@@ -1,5 +1,5 @@
 import uniqid from 'uniqid'
-import { skills } from '../../portfolio'
+import { skills,} from '../../portfolio'
 import './Skills.css'
 
 const Skills = () => {
@@ -10,11 +10,12 @@ const Skills = () => {
       <h2 className='section__title'>Skills</h2>
       <ul className='skills__list'>
         {skills.map((skill) => (
+          
           <li key={uniqid()} className='skills__list-item btn btn--plain'>
-            <img src={skill} alt=''/>
-            
+              <img src={skill} alt=''/>
           </li>
          ))} 
+         
       </ul>
     </section>
   )
