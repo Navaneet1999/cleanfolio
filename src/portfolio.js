@@ -38,6 +38,14 @@ const projects = [
     livePreview: 'https://pluralsiteclone.netlify.app/',
     imageBag: 'https://www.classcentral.com/report/wp-content/uploads/2021/04/pluralsight-top-courses.png',
   },
+  {
+    name: 'Adidas',
+    description: 'A website used to buy adidas products',
+    stack: ['React', 'Redux', 'Nodejs'],
+    sourceCode: 'https://github.com/AnanthuSuresh098/Adidas-replica',
+    livePreview: 'https://adidas-replica.vercel.app/',
+    imageBag: 'https://image.shutterstock.com/image-photo/paris-france-circa-november-2016-260nw-534263623.jpg',
+  },
   //   name: 'Project 3',
   //   description:
   //     'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
